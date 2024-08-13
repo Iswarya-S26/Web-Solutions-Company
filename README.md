@@ -9,5 +9,3 @@ The primary goal of this project was to create a fully responsive website. Key f
 - **Responsive Design:** Utilizes media queries to ensure compatibility across various devices.
 - **CSS Techniques:** Incorporates advanced CSS properties and layouts such as Box Model, Flexbox, Grid, Transforms, and Transitions.
 - **Optimized Styling:** Employs two external stylesheets—one specifically for media queries—and utilizes efficient CSS selectors to minimize the use of classes and IDs.
-
-## Getting Started

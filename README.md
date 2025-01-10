@@ -1,6 +1,6 @@
 # Web-Solutions-Company
 
-Welcome to the **Web Site Solutions Company** project! This repository contains a single-page, long-scrollable website built using HTML, CSS, and managed with VS Code.
+Welcome to the **Web Site Solutions Company** project! This repository features a single-page, long-scrolling website designed with HTML and CSS, and developed using VS Code.
 
 ## Project Overview
 

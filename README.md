@@ -1,4 +1,4 @@
-# Wb-Solutions-Company
+# Web-Solutions-Company
 
 Welcome to the **Web Site Solutions Company** project! This repository features a single-page, long-scrolling website designed with HTML and CSS, and developed using VS Code.
 
